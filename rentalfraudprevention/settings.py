@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'complaint',
     'subscription',
     'review',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
